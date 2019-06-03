@@ -1,4 +1,4 @@
-# Renaming an existing git tag
+# Renaming an existing tag
 
 ```
 git tag new_tag_name old_tag_name
@@ -7,10 +7,10 @@ git push origin :refs/tags/old_tag_name
 git push --tags
 ```
 
-# Deleting a git tag
+# Deleting a tag
 
 ```
 git tag -d tag_name
-git push origin :refs/tags/old_tag_name
+git push origin :refs/tags/tag_name
 git push --tags
 ```
