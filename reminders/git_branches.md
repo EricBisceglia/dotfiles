@@ -10,3 +10,10 @@ git reset --hard origin/branch_name
 ```
 git fetch -p
 ```
+
+# Update your branch with the latest changes from another branch
+
+```
+git checkout my_feature_branch
+git merge main_branch
+```
