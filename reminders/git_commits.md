@@ -1,4 +1,4 @@
-# Edit the title of a pushed commit (rewriting history)
+# Edit the title of a pushed commit (rewriting history is bad btw)
 
 ```
 git rebase -i HEAD~3

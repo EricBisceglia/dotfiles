@@ -1,0 +1,43 @@
+{
+  "workbench.iconTheme": "vs-minimal",
+  "editor.fontFamily": "Hack, Consolas, 'Courier New', monospace",
+  "editor.fontSize": 16,
+  "editor.minimap.enabled": true,
+  "editor.minimap.maxColumn": 120,
+  "editor.minimap.renderCharacters": false,
+  "editor.rulers": [119],
+  "[git-commit]":  {
+    "editor.rulers": [72]
+  },
+  "[python]":  {
+    "editor.rulers": [79]
+  },
+  "workbench.colorCustomizations": {
+    "editorRuler.foreground": "#34294f"
+  },
+  "editor.wordWrapColumn": 119,
+  "editor.wordWrap": "bounded",
+  "editor.wrappingIndent": "indent",
+  "editor.cursorStyle": "line-thin",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "boundary",
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "editor.suggestOnTriggerCharacters": false,
+  "emmet.showAbbreviationSuggestions": false,
+  "emmet.showExpandedAbbreviation": "never",
+  "editor.colorDecorators": false,
+  "window.restoreFullscreen": true,
+  "window.restoreWindows": "all",
+  "explorer.autoReveal": false,
+  "git.ignoreMissingGitWarning": true,
+  "html.format.indentInnerHtml": true,
+  "telemetry.enableTelemetry": false,
+  "vscode-mysql.enableTelemetry": false,
+  "highlight-bad-chars.additionalUnicodeChars": ["\u200E"],
+  "php.validate.executablePath": "C:/wamp/bin/php/php7.0.10/php.exe",
+  "workbench.colorTheme": "SynthWave '84",
+  "synthwave84.brightness": 0.95
+}

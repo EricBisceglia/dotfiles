@@ -2,9 +2,9 @@
 
 ```
 GitLens
-Hg
 Highlight Bad Chars
 MySQL
 PHP Intelephense
+SynthWave '84
 vscode-icons
 ```
